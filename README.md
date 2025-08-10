@@ -27,3 +27,11 @@ Overall, this research contributes to the advancement of assistive
 technologies by leveraging modern sensor and machine learning
 technologies to create a practical and empowering tool for individuals with
 hearing and speech impairments.
+
+---
+
+## Contact
+
+For questions or feedback, please contact:  
+**Adi Karthikeya S B** – [adikarthikeya1234@gmail.com]  
+GitHub: [https://github.com/adikarthikeya2003](https://github.com/adikarthikeya2003)
