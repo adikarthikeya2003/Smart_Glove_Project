@@ -1,4 +1,4 @@
-# Sign_Detection_Smart_Glove_Project
+# Sign_Recognition_Smart_Glove_Project
 This study focuses on the development of a Sign Recognition Smart Glove
 tailored to assist individuals who are deaf and mute. The smart glove
 incorporates advanced sensor technologies and Embedded C algorithms to
